@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm a creative fullstack developer with 7 years experience.  
 
-<!--
-**william-lohan/william-lohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on  
 
-Here are some ideas to get you started:
+I'm a PHP backend and Vue.js frontend developer for an internal software company. In my free time I work on blogs for [Unicorn Utterances](https://unicorn-utterances.com/unicorns/splatkillwill) and game dev / 3d modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning  
+
+I'm always finding new things to learn. Looking for ways to improve my C/C++. About to try Photogrammetry (3D scanning) with [Meshroom](https://alicevision.org/#meshroom).
+
+## 📫 How to reach me:  
+
+916-844-8938  
+william.g.lohan@gmail.com  
+
+## 😄 Pronouns:  
+
+they / them  
