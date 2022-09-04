@@ -10,7 +10,6 @@ I'm always finding new things to learn. Looking for ways to improve my C/C++. Ab
 
 ## 📫 How to reach me:  
 
-916-844-8938  
 william.g.lohan@gmail.com  
 
 ## 😄 Pronouns:  
