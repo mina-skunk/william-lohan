@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on  
 
-I'm a PHP backend and Vue.js frontend developer for an internal software company. In my free time I work on blogs for [Unicorn Utterances](https://unicorn-utterances.com/unicorns/splatkillwill) and game dev / 3d modeling.
+I'm a dotnet backend and Vue.js frontend developer for courseware. In my free time I work on blogs for [Unicorn Utterances](https://unicorn-utterances.com/unicorns/splatkillwill) and game dev / 3d modeling.
 
 ## 🌱 I’m currently learning  
 
